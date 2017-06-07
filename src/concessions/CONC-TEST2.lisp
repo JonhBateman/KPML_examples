@@ -41,6 +41,6 @@
                              :TENSE PRESENT
                              :|gum#domain| LA
                              :|gum#range|
-                               (B / |ColorQuality| :LEX BLUE)))))  
+                               (B / |Color| :LEX BLUE)))))  
 )
 
